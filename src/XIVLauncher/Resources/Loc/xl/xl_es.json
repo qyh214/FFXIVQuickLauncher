@@ -52,11 +52,11 @@
     "description": "SettingsControl.OriginalLauncherButton_OnClick"
   },
   "DalamudIncompatible": {
-    "message": "Dalamud aún no ha sido actualizado para tu versión de FFXIV actual.\nÉsto es común después de parches, así que por favor, sé paciente o pide información en nuestro Discord.",
+    "message": "Dalamud aún no ha sido actualizado para tu versión de FFXIV actual.\nEsto es común después de parches, así que por favor, sé paciente o pide información en nuestro Discord!",
     "description": "SettingsControl.EnableHooksCheckBox_OnChecked"
   },
   "DalamudCompatCheckFailed": {
-    "message": "No se ha podido contactar con el servidor para obtener la versión actual de Dalamud compatible con FFXIV. Ésto podría significar que tu instalación de .NET es demasiado antigua. Obtén más información en nuestro Discord.",
+    "message": "No se ha podido contactar con el servidor para obtener la versión actual de Dalamud compatible con FFXIV. Esto podría significar que tu instalación de .NET es demasiado antigua. Obtén más información en nuestro Discord.",
     "description": "SettingsControl.EnableHooksCheckBox_OnChecked"
   },
   "PluginPathNotFound": {
@@ -192,7 +192,7 @@
     "description": "FirstTimeSetupViewModel.SetupLoc"
   },
   "FirstTimeDalamudNotice": {
-    "message": "¿Quieres habilitar Dalamud?\nÉsto añadirá algunas funciones extra al juego, como un filtro de RMT en el chat y notificaciones de Discord para mensajes de chat o avisos del Duty Finder.\n\nPara configurar estos ajustes, por favor utiliza el menú de ajustes de XIVLauncher y pasa a la pestaña \"Dalamud\".\nSin embargo, habilitar ésto podría causar un falso positivo en tu antivirus, así que comprueba sus ajustes y añade las exclusiones necesarias si te topas con algún problema.",
+    "message": "¿Quieres habilitar Dalamud?\nEsto añadirá algunas funciones extra al juego, como un filtro de RMT en el chat y notificaciones de Discord para mensajes de chat o avisos del Duty Finder.\n\nPara configurar estos ajustes, por favor utiliza el menú de ajustes de XIVLauncher y pasa a la pestaña \"Dalamud\".\nSin embargo, habilitar esto podría causar un falso positivo en tu antivirus, así que comprueba sus ajustes y añade las exclusiones necesarias si te topas con algún problema.",
     "description": "FirstTimeSetupViewModel.SetupLoc"
   },
   "FirstTimeDalamudCheckBox": {
@@ -696,7 +696,7 @@
     "description": "<>c__DisplayClass38_0.<DownloadPatchAsync>b__1"
   },
   "DalamudRunnerError": {
-    "message": "No se ha podido iniciar Dalamud correctamente. Ésto podría ser causado por tu antivirus.\nPara evitar esto, por favor añade una excepción para la carpeta \"%AppData%\\XIVLauncher\\addons\".",
+    "message": "No se ha podido iniciar Dalamud correctamente. Esto podría ser causado por tu antivirus.\nPara evitar esto, por favor añade una excepción para la carpeta \"%AppData%\\XIVLauncher\\addons\".",
     "description": "DalamudLauncher.Run"
   },
   "DalamudVc2019RedistError": {
